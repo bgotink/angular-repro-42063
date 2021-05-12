@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es2015",
+    "module": "es2020",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "strict": true
+  },
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+    "enableIvy": true,
+    "compilationMode": "partial"
+  },
+  "files": ["src/index.ts"]
+}
